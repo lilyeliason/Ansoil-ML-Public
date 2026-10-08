@@ -27,8 +27,8 @@ Dragone, N.B., M.K. Childress, C. VanderBurgh, I.D. Hogg, L.G. Sancho, C.K. Lee,
  
 **Environmental predictors.** Nine predictor variables, encoded as 22 model features:
  
-| Group | Variables | Source |
-|---|---|---|
+| Group | Variables |
+|---|---|
 | Geographic | Projected coordinates (EPSG:3031), region, distance to coast |
 | Topographic | Elevation, slope, aspect (sin/cos encoded) |
 | Climatic | Mean annual temperature, precipitation |
