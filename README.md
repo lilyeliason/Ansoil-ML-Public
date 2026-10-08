@@ -75,5 +75,5 @@ This research was funded by the National Science Foundation and the Department o
 
 Soil samples, laboratory analyses, and the multiple linear regression baseline come from the thesis work of Rachel Willmore.² We thank Abidemi Aremu, Audrey Hughes, Austen Lambert, Alan Ketring, Caleb Harris, Danny Lopez Cedeno, Forrest Jarvis, Kate Hales, Kara Hunter, Lynette Juarez, Lindy Miller, Meagan Boden, Maleah Moore, Mardell Overson, Sierra Stewart, and Seth Wuthrich for laboratory work, and Kevin Rey for guidance on the laboratory analysis. We also thank Dr. Ruth Kerry for her support.
 
-Climate data were accessed through the Norwegian Polar Institute's Quantarctica package.¹² Digital elevation models were provided by the Byrd Polar and Climate Research Center and the Polar Geospatial Center under NSF-OPP awards 1043681, 1542736, 1543501, 1559691, 1810976, and 2129685, with data access via OpenTopography under NSF-EAR awards 1948997, 1948994, and 1948857.¹³
+Climate data were accessed through the Norwegian Polar Institute's Quantarctica package.¹¹ Digital elevation models were provided by the Byrd Polar and Climate Research Center and the Polar Geospatial Center under NSF-OPP awards 1043681, 1542736, 1543501, 1559691, 1810976, and 2129685, with data access via OpenTopography under NSF-EAR awards 1948997, 1948994, and 1948857.¹²
  
