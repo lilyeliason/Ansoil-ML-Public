@@ -21,8 +21,7 @@ We paired 171 lab-analyzed soil samples from 28 locations with environmental dat
 
 ## Data
  
-**Soil geochemistry.** Lab-analyzed soil samples are available through the Environmental Data Initiative:
-https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-mcm.275.1
+**Soil geochemistry.** Lab-analyzed soil samples are available through the Environmental Data Initiative: https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-mcm.275.1
  
 Dragone, N.B., M.K. Childress, C. VanderBurgh, I.D. Hogg, L.G. Sancho, C.K. Lee, J.E. Barrett, B.J. Adams, J.J. LeMonte, R. Willmore, C.A. Quandt, and N. Fierer. 2025. Geochemical, physicochemical, and genomic data from a continental-scale survey of microbial diversity in Antarctic soils (2003-2023) ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/b4858653c587864f0111aba4c3014d61 (Accessed 2026-10-02).
  
