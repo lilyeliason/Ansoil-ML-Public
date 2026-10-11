@@ -6,6 +6,9 @@
 ² Brigham Young University, Department of Biology
 ³ University of Colorado Boulder
 
+
+Email for inquiries: elily@byu.edu
+
  --
  
 **Can machine learning predict soil chemistry in places no one has sampled?**
