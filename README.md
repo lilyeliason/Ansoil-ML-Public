@@ -8,6 +8,7 @@
 
 
 Email for inquiries: elily@byu.edu
+Linkedin: https://www.linkedin.com/in/lily-eliason/
 
  --
  
